@@ -1,5 +1,6 @@
 #!/usr/bin/python
 #coding: utf-8
+# by: Mharcos Nesster (Mh4)
 from socket import *  
 import sys
 import os
